@@ -1,1 +1,2 @@
-"# Simple-Lottery-System-using-Blockchain" 
+# Blockchain enabled lottery System
+
